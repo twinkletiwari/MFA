@@ -7,6 +7,6 @@ This project performs vehicle segmentation on a dataset of images. To execute th
    * `images_auto`
    * `images_groundTruth`
    
-   For representation purposes, we have already included one image in each folder.
+   For representation purposes, we have only included one image in each folder.
 
 3. Run the `main.m` file to execute the code.
